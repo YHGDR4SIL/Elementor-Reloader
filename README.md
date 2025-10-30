@@ -26,13 +26,6 @@ Elementor Reloader is a lightweight Chrome extension that automatically fixes co
 3. The page automatically reloads.
 4. Each fix adds 10 seconds to your total “time saved”.
 
-## Installation (developer mode)
-
-1. Download or clone this repository.  
-2. Go to `chrome://extensions`.  
-3. Enable **Developer mode** (top right).  
-4. Click **Load unpacked** and select the folder containing the files.  
-5. Open your Elementor editor page — the extension will now handle errors automatically.
 
 ## Permissions
 
