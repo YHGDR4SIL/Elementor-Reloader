@@ -1,6 +1,7 @@
 # Elementor Reloader
 
 Elementor Reloader is a lightweight Chrome extension that automatically fixes common Elementor editor crashes by clearing cookies and reloading the page. It also tracks how much time you’ve saved thanks to automatic fixes.
+https://chromewebstore.google.com/detail/acjkhbjibcjjapkhjckjihicjcjeifcj?utm_source=item-share-cb
 
 ## Features
 
